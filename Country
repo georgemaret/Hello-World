@@ -1,0 +1,5 @@
+c = input("Your Country name please")
+a = input("Your Name also")
+
+#Printing a customised message
+print("Hello {}, Welcome to {} ".format(a,c))
