@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+#Hi everyone, I am making this file to print "hello World" using bash script
+
+echo "Hello World"
+
+#echo command is used to print messages in CLI
