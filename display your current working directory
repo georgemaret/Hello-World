@@ -1,4 +1,6 @@
 #!/bin/bash
 
 $ echo "we start here"
-$ pwd
+$ echo $(pwd)
+
+
